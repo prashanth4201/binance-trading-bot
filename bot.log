@@ -1,0 +1,7 @@
+2026-03-28 00:21:25,350 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-28 00:29:55,137 - ERROR - API Secret required for private endpoints
+2026-03-28 00:46:26,111 - ERROR - API Secret required for private endpoints
+2026-03-28 00:49:43,552 - ERROR - API Secret required for private endpoints
+2026-03-28 00:54:01,203 - ERROR - APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-03-28 00:57:34,345 - ERROR - APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-03-28 00:58:40,885 - INFO - {'orderId': 12999976879, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJbe213b03d1042d8482b44d', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1774639720765}
